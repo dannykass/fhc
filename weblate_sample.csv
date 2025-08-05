@@ -1,0 +1,30 @@
+﻿key,en,ja,zh-Hant
+fhc1,Marblinko,,
+fhc2,VALUE,,
+fhc3,GET,,
+fhc4,BONUS,,
+fhc5,DROP,,
+fhc6,TB,,
+fhc7,HOW TO PLAY,,
+fhc8,"Choose how many balls to drop.
+TB is calculated as: Number of Balls × Value.",,
+fhc9,"Tap the DROP button to release //
+the number of balls you've selected above.",,
+fhc10,"Tap the GET button to claim your winnings,
+or they will be collected automatically when you return to lobby.",,
+fhc11,"Land a ball in 'BONUS' bin to earn a BONUS chance!
+Tap BONUS to unlock special features //
+and free balls that boost your gameplay!",,
+fhc12,[Multiplier UP] Boosts all multipliers in every bin.,,
+fhc13,[Barrier] Creates structures that boost your winning chances.,,
+fhc14,[Bumper] Places 2 bumpers in low multiplier bins.,,
+fhc15,[Bonus Ball] Adds 50 extra balls.,,
+fhc16,[ALL] Activates all features.,,
+fhc17,"In Bonus Mode, one of the above features //
+will be randomly granted.
+",,
+fhc18,"In Bonus Mode, the gauge fills up //
+when a ball bounces off a special structure, 
+Once it’s full, Bonus Mode is retriggered!",,
+fhc19,"Enter the Bonus Mode,
+Aim for the endless bonus triggers!",,
